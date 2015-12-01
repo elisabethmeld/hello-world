@@ -3,6 +3,9 @@
 
 ============
 
-Fancy tutorial - learning the basics...
+Fancy tutorial - 
 
 deleted tutorial above - added more here
+
+
+deleted learning bit - added more here...
